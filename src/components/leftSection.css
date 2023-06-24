@@ -1,0 +1,62 @@
+.leftSectionContainer h1 {
+    margin-top: 10vh;
+    margin-left: 4vw;
+    color: white;
+}
+
+#firstP {
+    margin-top: 20px;
+    margin-left: 4vw;
+    color: #8D949C;
+    font-size: 20px;
+}
+
+.middle {
+    margin-top: 40px;
+    margin-left: 4vw;
+    margin-bottom: 30px;
+}
+
+.middle a {
+    color: #8D949C;
+    text-decoration: none;
+}
+
+.btn1 {
+    width: 300px;
+    height: auto;
+    background: rgb(17, 1, 75);
+    background: linear-gradient(90deg, rgba(17, 1, 75, 1) 0%, rgba(8, 185, 252, 1) 100%, rgba(54, 54, 124, 1) 100%);
+    padding: 10px;
+    margin: 13px;
+    margin-left: 4vw;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn1 span {
+    color: rgb(255, 255, 255);
+    
+}
+
+.btn2 {
+    width: 300px;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 13px;
+    margin-left: 4vw;
+    border: none;
+}
+
+.btn2 span {
+    color: rgb(2, 2, 2);
+}
+
+.para {
+    font-size: 14px;
+    margin-left: 4vw;
+    color: #8D949C;
+    margin-top: 20px;
+}
